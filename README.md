@@ -1,18 +1,12 @@
-### Hi there 👋
+## Klayver Ximenes 👨🏻‍💻
 
-Sou um ciclista graduando em Engenharia da Computação
-Tenho um breve conhecimento em machine learning, data science e atualmente estou estudando tecnologias para desenvolvimento web, em especial o ReactJS 💙.
-<!--
-**Klayverx/Klayverx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um ciclista 🚵‍♂️ graduando em Engenharia da Computação 💻
 
-Here are some ideas to get you started:
+Tenho um breve conhecimento em machine learning ⚙, data science 🔢 e atualmente estou estudando tecnologias para desenvolvimento web, em especial o ReactJS 💙.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me encontre por aqui! 👇🏽
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Klayverx)](https://github.com/Klayverx)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klayverximenes/)](https://www.linkedin.com/in/klayverximenes)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/klayverxd/)](https://www.instagram.com/klayverxd/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:klayverx@gmail.com)](mailto:klayverx@gmail.com)
