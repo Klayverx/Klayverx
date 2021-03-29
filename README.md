@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Sou um ciclista graduando em Engenharia da Computação
+Tenho um breve conhecimento em machine learning, data science e atualmente estou estudando tecnologias para desenvolvimento web, em especial o ReactJS 💙.
 <!--
 **Klayverx/Klayverx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
