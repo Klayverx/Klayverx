@@ -1,5 +1,7 @@
 ## Hi 👋, I'm Klayver Ximenes 👨🏻‍💻
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Klayverx" alt="francisco-devjs" /> </p>
+
 Sou um ciclista 🚵‍♂️ graduando em Engenharia da Computação 💻
 
 Tenho um breve conhecimento em machine learning ⚙, data science 🔢 e atualmente estou estudando tecnologias para desenvolvimento web, em especial o ReactJS 💙.
