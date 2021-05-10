@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Klayver Ximenes 👨🏻‍💻
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Klayverx" alt="francisco-devjs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Klayverx" alt="klayver" /> </p>
 
 Sou um ciclista 🚵‍♂️ graduando em Engenharia da Computação 💻
 
