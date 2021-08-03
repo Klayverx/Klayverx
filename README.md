@@ -4,7 +4,7 @@
 
 Sou um ciclista 🚵‍♂️ graduando em Engenharia da Computação 💻
 
-Tenho um breve conhecimento em machine learning ⚙, data science 🔢 e atualmente estou estudando tecnologias para desenvolvimento web, em especial o ReactJS 💙.
+Tenho um breve conhecimento em machine learning ⚙, data science 🔢 e atualmente estou estudando tecnologias para desenvolvimento web e mobile, em especial com ReactJS e React Native 💙.
 
 ### 💭 "Qual foi a última vez que você fez algo pela primeira vez?"
 
