@@ -15,7 +15,8 @@ Tenho um breve conhecimento em machine learning ⚙, data science 🔢 e atualme
 
 ---
 ### 🐱 Github stats:
-![Klayverx's github stats](https://github-readme-stats.vercel.app/api?username=klayverxd&show_icons=true&title_color=0195DD&icon_color=0BE36C&text_color=daf7dc&bg_color=050F2C)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klayverxd&layout=compact&text_color=daf7dc&bg_color=050F2C)](https://github-readme-stats.vercel.app/api/top-langs/?username=Klayverx&layout=compact&text_color=daf7dc&bg_color=050F2C)
 
-----
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=klayverxd&show_icons=true&title_color=0195DD&icon_color=0BE36C&text_color=daf7dc&bg_color=050F2C&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klayverxd&text_color=daf7dc&bg_color=050F2C&layout=compact&langs_count=7"/>
+</div>
